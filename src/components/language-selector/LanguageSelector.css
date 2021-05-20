@@ -1,0 +1,21 @@
+.language-flags {
+    width: 44px !important;
+    position: absolute;
+    z-index: 9;
+    top: 16px;
+    right: 16px;
+}
+
+.language-flags .ant-select-arrow {
+    display: none;
+}
+
+.flag {
+    width: 20px;
+    height: 20px;
+}
+
+.flag img {
+    width: 100%;
+    height: 100%;
+}

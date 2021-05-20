@@ -1,5 +1,5 @@
 import './App.css';
-import LanguageSelector from './components/LanguageSelector';
+import LanguageSelector from './components/language-selector/LanguageSelector';
 // import MainHeader from './components/MainHeader';
 import { Suspense } from 'react';
 import MainLayout from './layout/MainLayout';
